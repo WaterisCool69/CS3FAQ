@@ -1,0 +1,43 @@
+#landscape {
+  width: 250px;
+  top: 20px;
+  left: 20px;
+  z-index: 1;
+  position: absolute;
+}
+
+#winston {
+	top: 150px;
+	left: 20px;
+	width: 40px;
+	height: 40px;
+	z-index: 2;
+	position: absolute;
+}
+
+#hopper {
+	top: 30px;
+	left: 200px;
+	width: 50px;
+	z-index: 3;
+	position: absolute;
+}
+
+#DanceParty {
+	position: fixed;
+	top: 30px;
+	left: 40px;
+	z-index: 3;
+}
+
+
+#song {
+	top: 220px;
+	position: relative;
+}
+
+* {
+font-family: fantasy;
+color: rgb(199, 177, 14);
+}
+	
